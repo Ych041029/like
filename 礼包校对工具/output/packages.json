@@ -1,0 +1,251 @@
+﻿{
+    "exportTime": "2026-07-29 20:13:26",
+    "actId": 76,
+    "shopId": 76004,
+    "shopInfoId": 23115,
+    "packages": [
+        {
+            "index": 1,
+            "packageType": "免费",
+            "goodsId": 2311501,
+            "lootId": 2311501,
+            "rewardReadLoot": 0,
+            "price": 0,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 100004,
+                    "itemName": "弹药",
+                    "num": 10
+                }
+            ],
+            "displayText": "弹药*10(日购*1)"
+        },
+        {
+            "index": 2,
+            "packageType": "广告*1",
+            "goodsId": 2311502,
+            "lootId": 2311502,
+            "rewardReadLoot": 0,
+            "price": 0,
+            "costId": 1,
+            "costCount": 1,
+            "limit": 1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 1
+                }
+            ],
+            "displayText": "粽子*1(日购*1)"
+        },
+        {
+            "index": 3,
+            "packageType": "钻石*600",
+            "goodsId": 2311503,
+            "lootId": 2311503,
+            "rewardReadLoot": 0,
+            "price": 0,
+            "costId": 100000,
+            "costCount": 600,
+            "limit": 1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 2
+                },
+                {
+                    "itemId": 100004,
+                    "itemName": "弹药",
+                    "num": 50
+                },
+                {
+                    "itemId": 100025,
+                    "itemName": "加速秒表",
+                    "num": 5
+                }
+            ],
+            "displayText": "粽子*2+弹药*50+加速秒表*5(日购*1)"
+        },
+        {
+            "index": 4,
+            "packageType": "30元",
+            "goodsId": 2311504,
+            "lootId": 2311504,
+            "rewardReadLoot": 0,
+            "price": 30,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 10
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 300
+                }
+            ],
+            "displayText": "粽子*10+钻石*300(日购*1)"
+        },
+        {
+            "index": 5,
+            "packageType": "68元",
+            "goodsId": 2311505,
+            "lootId": 2311505,
+            "rewardReadLoot": 0,
+            "price": 68,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 18
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 680
+                }
+            ],
+            "displayText": "粽子*18+钻石*680(日购*1)"
+        },
+        {
+            "index": 6,
+            "packageType": "128元",
+            "goodsId": 2311506,
+            "lootId": 2311506,
+            "rewardReadLoot": 0,
+            "price": 128,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 2,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 32
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 1280
+                }
+            ],
+            "displayText": "粽子*32+钻石*1280(日购*2)"
+        },
+        {
+            "index": 7,
+            "packageType": "328元",
+            "goodsId": 2311507,
+            "lootId": 2311507,
+            "rewardReadLoot": 0,
+            "price": 328,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 3,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 79
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 3280
+                }
+            ],
+            "displayText": "粽子*79+钻石*3280(日购*3)"
+        },
+        {
+            "index": 8,
+            "packageType": "648元",
+            "goodsId": 2311508,
+            "lootId": 2311508,
+            "rewardReadLoot": 0,
+            "price": 648,
+            "costId": 0,
+            "costCount": 0,
+            "limit": -1,
+            "resetDay": 1,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 138
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 6480
+                }
+            ],
+            "displayText": "粽子*138+钻石*6480(不限)"
+        },
+        {
+            "index": 9,
+            "packageType": "128元",
+            "goodsId": 2311509,
+            "lootId": 2311509,
+            "rewardReadLoot": 0,
+            "price": 128,
+            "costId": 0,
+            "costCount": 0,
+            "limit": 6,
+            "resetDay": 0,
+            "resetWeek": 0,
+            "resetMon": 0,
+            "rewards": [
+                {
+                    "itemId": 105145,
+                    "itemName": "粽子",
+                    "num": 15
+                },
+                {
+                    "itemId": 100000,
+                    "itemName": "钻石",
+                    "num": 1280
+                },
+                {
+                    "itemId": 270013,
+                    "itemName": "端午引擎自选箱",
+                    "num": 1
+                }
+            ],
+            "displayText": "粽子*15+钻石*1280+端午引擎自选箱*1(永*6)"
+        }
+    ]
+}
