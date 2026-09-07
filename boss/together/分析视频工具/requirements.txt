@@ -1,0 +1,8 @@
+# 游戏任务分析工具 - Python依赖清单
+# 用法: pip install -r requirements.txt
+# 注意: numpy必须<2,否则paddlepaddle不兼容(踩过坑)
+
+numpy<2
+paddlepaddle
+paddleocr
+Pillow

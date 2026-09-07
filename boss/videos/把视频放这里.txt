@@ -1,0 +1,15 @@
+【把要分析的游戏视频放进这个文件夹（boss\videos\）——两路工具共用这一个视频】
+
+用法：
+1) 视频文件名起一个好认的名字，例如：跃动小子2.mp4
+2) 跟 AI 说：阅读 根\新会话AI总手册.md，分析 videos 里的 跃动小子2，玩法和解锁时间线都要
+   （只想要玩法/任务分析 → 只跑 together；只想要解锁时间线 → 只跑 unlock_tool）
+3) 两路都完成后，总报告固定在：
+   根\reports\跃动小子2\游戏分析总报告_跃动小子2.md   ⭐
+
+说明：
+- 本文件夹是总工具（boss）的统一视频入口，两个工具都从这里读同一个视频
+- 支持格式：mp4 / mkv / avi / mov / flv / webm / m4v / ts
+- together 侧输中间报告到 together\reports\视频名\，unlock 侧输出到 unlock_tool\reports\游戏名\
+  最终合并的大总报告在 根\reports\
+- 本说明文件可删除

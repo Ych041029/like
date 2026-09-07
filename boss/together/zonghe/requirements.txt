@@ -1,0 +1,9 @@
+# 整合工具(任务1+任务2) - Python依赖清单
+# 用法: 双击同目录下 一键安装.bat，或手动 pip install -r requirements.txt
+# 注意: numpy必须<2,否则paddlepaddle不兼容(踩过坑)
+
+numpy<2
+paddlepaddle
+paddleocr
+Pillow
+matplotlib

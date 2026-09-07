@@ -1,0 +1,36 @@
+{
+  "game": "灵画师",
+  "gate_roi": [0, 801, 178, 19],
+  "anchors": {"main": ["03:15", "13:17", "14:08"]},
+  "params": {
+    "carry_candidate": true,
+    "identity_check": true,
+    "short_gap_force": true
+  },
+  "rois": {
+    "activity": [
+      {"id": "lidaping", "roi": [9, 244, 44, 40]},
+      {"id": "fuli", "roi": [9, 301, 44, 40]},
+      {"id": "chaozhi", "roi": [9, 356, 44, 40]},
+      {"id": "xinshou", "roi": [384, 291, 40, 36]},
+      {"id": "huodong", "roi": [384, 352, 40, 36]}
+    ],
+    "nav": [
+      {"id": "xianmeng", "roi": [20, 757, 50, 42]},
+      {"id": "dongfu", "roi": [85, 757, 56, 42]},
+      {"id": "tiaozhan", "roi": [308, 757, 56, 42]},
+      {"id": "zhuxian", "roi": [375, 756, 55, 44]}
+    ],
+    "cultivation": {
+      "style": "gray2color",
+      "slots": [
+        {"id": "faxiang", "roi": [29, 660, 48, 48]},
+        {"id": "zuoji", "roi": [95, 660, 48, 48]},
+        {"id": "hunyu", "roi": [162, 660, 48, 48]},
+        {"id": "lingshou", "roi": [228, 660, 48, 48]},
+        {"id": "fabao", "roi": [295, 660, 48, 48]},
+        {"id": "yuhuo", "roi": [361, 660, 48, 48]}
+      ]
+    }
+  }
+}
