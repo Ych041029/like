@@ -1,0 +1,17 @@
+{
+  "lidaping": {"status": "unlocked", "time": "04:44", "note": "随整列重排入框"},
+  "fuli": {"status": "unlocked", "time": "01:52", "note": "实际滑入chaozhi下槽位，04:44上移"},
+  "chaozhi": {"status": "unlocked", "time": "01:52", "note": "福利在此框位登场"},
+  "xinshou": {"status": "unlocked", "time": "00:26", "note": "实际滑入huodong下槽位，04:44上移"},
+  "huodong": {"status": "unlocked", "time": "04:44", "note": "活动在此框位登场"},
+  "xianmeng": {"status": "locked"},
+  "dongfu": {"status": "unlocked", "time": "04:44"},
+  "tiaozhan": {"status": "unlocked", "time": "13:21.5"},
+  "zhuxian": {"status": "unlocked", "time": "01:03"},
+  "faxiang": {"status": "unlocked", "time": "12:30"},
+  "zuoji": {"status": "locked"},
+  "hunyu": {"status": "locked"},
+  "lingshou": {"status": "locked"},
+  "fabao": {"status": "locked"},
+  "yuhuo": {"status": "locked"}
+}
